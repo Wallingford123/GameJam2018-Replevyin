@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Child
+  - Follower
+  - Enemy
+  - BookProjectile
+  - Captive
+  - RockProjectile
+  - Saved
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Child
+  - Player
+  - Follower
+  - ProjectileChild
+  - Enemy
+  - Captive
+  - Kidnapper
+  - ProjectileBook
+  - PlayerLadder
+  - ProjectileRock
+  - Dead
+  - PLAYERBLOCKER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2278272487
+    locked: 0
